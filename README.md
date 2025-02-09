@@ -1,9 +1,8 @@
 # 🐱‍💻About Me:
 🚀 I’m a Computer Science grad student at <a href="https://www.uml.edu/sciences/computer-science/">UMass Lowell</a> ! <br>
-🌱 I’m currently learning ReactJS, Docker and NLP.<br>
-🐱‍🏍 I’m looking to collaborate on Image-segmentation, data-visualisation or trading-algorithms projects. <br>
-🌩️ I’m preparing for my AWS CLoud Practitioner certification. <br>
-💬 Ask me about my cat, <a href="https://instagram.com/missycatstore/">Missy</a> !
+🌱 I’m currently learning about LLMs.<br>
+💬 Open to discussing Large Language Models, MLaaS!
+🍄 Ask me about my cat, <a href="https://instagram.com/missycatstore/">Missy</a> !
 
 
 
