@@ -36,8 +36,3 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="my sql" width="40" height="40"/></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br><br>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=divij-pawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divij-pawar&layout=compact&theme=dark&card_width=400)
-
-<!-- ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=divij-pawar&show_icons=true) -->  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
