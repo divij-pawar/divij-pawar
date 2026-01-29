@@ -1,8 +1,9 @@
 # 🐱‍💻About Me:
-🚀 I’m a Computer Science grad student at <a href="https://www.uml.edu/sciences/computer-science/">UMass Lowell</a> ! <br>
-🌱 I’m currently learning about LLMs.<br>
-💬 Open to discussing Large Language Models, MLaaS!
-🍄 Ask me about my cat, <a href="https://instagram.com/missycatstore/">Missy</a> !
+  🚀 <strong>MS in Computer Science</strong> from <a href="https://www.uml.edu/sciences/computer-science/">UMass Lowell</a>! <br>
+  🏗️ Currently learning production-grade <strong>MLOps pipelines</strong> and building <a href="https://social-aura.netlify.app">Social Aura</a>. <br>
+  ☁️ Deep diving into <strong>Data Engineering</strong> and LLM orchestration. <br>
+  💬 Open to discussing Large Language Models, Vector Databases, and MLaaS! <br>
+  🍄 Ask me about my cat, <a href="https://instagram.com/missycatstore/">Missy</a>, or my dog, <strong>Winnie</strong>!
 
 
 
