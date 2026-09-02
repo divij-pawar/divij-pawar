@@ -24,7 +24,6 @@ Ask me about my cat, <strong>Missy</strong> ^.--.^ , or my dog, <strong>Winnie</
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-## 🐍 Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divij-pawar/divij-pawar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divij-pawar/divij-pawar/output/github-contribution-grid-snake.svg">
